@@ -1,2 +1,1 @@
-**IOT RECORD
-**
+IOT RECORD
